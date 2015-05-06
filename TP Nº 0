@@ -1,7 +1,12 @@
-/*Gonzalo Martin Lucena K1051
-/*15/04/2015
-/*Correccion Tp Nº 0 "Hola Mundo" Algoritmos y Estructura de Datos, muestra el mensaje "¡Hola Mundo y todo eso!" y se cierra
+//Gonzalo Martin Lucena K1051
+//15/04/2015
+//Correccion Tp Nº 0 "Hola Mundo" Algoritmos y Estructura de Datos, muestra el mensaje "¡Hola Mundo y todo eso!" y se cierra
+// (en la captura de pantalla le agregue una variable arbitraria para que pause cuando le pide la usuario su valor)
+
+//CAPTURA: http://postimg.org/image/6fvfuhdbn/
 
 #include <iostream>
 
 int main() { std::cout << "¡Hola Mundo y todo eso!"; }
+
+
